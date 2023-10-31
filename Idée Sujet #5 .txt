@@ -1,0 +1,9 @@
+Idée Sujet #5 :
+
+Tracer les course de bourse par boite/par secteur.
+Faire un tableau de pourcantage journaliere d'augemtation par boite/par secteur.
+Lisser le graphique du cours de la bourse.
+Faire un graphique du cours de la bourse par boite.
+
+
+
